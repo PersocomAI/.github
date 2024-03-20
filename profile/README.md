@@ -1,7 +1,7 @@
 # PersocomAI
 Local running AI Chatbot and Assistent Project
 
-![alt text](https://raw.githubusercontent.com/PersocomAI/.github/main/profile/image.webp)
+![Placeholder](https://raw.githubusercontent.com/PersocomAI/.github/main/profile/image.webp)
 
 ## About PersocomAI
 
