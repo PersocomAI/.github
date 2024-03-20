@@ -27,6 +27,8 @@ PersocomAI want to be at first a Chatbot, inspired by existing AI bots like Repl
 - Time and weather support.
 - Roleplay mode will be powerful with its own features.
 
+First release: TBA
+
 ### Important
 
 This is a purely private project, there is no company behind it and no intention to make any profit from it.
