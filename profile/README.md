@@ -1,5 +1,5 @@
 # PersocomAI
-Local running AI Chatbot and Assistent Project
+Local running AI Companion ChatBot and Assistent Project
 
 ![Placeholder](https://raw.githubusercontent.com/PersocomAI/.github/main/profile/image.webp)
 (Placeholder - had no better image to hand)
@@ -8,14 +8,14 @@ Local running AI Chatbot and Assistent Project
 
 ### Why PersocomAI?
 
-PersocomAI want to be a WebUI and AI that runs completelly offline on your local PC or network to be independed from any companies or other persons. Why is this important? At first, of course privacy. Your data is often used from companies to fine-tune their LLM model further. Also you need to put a lot of trust onto this companies to don't change the AI in a direction you don't like and also keep your most private data safe. At second, more and more companies and people want to limit AI models to be political correct and mirrors their moral conceptions and because the most AI companies so far are US companies they follow US moral concepts and as a result, they are imposing them on other countries as well. Some older popular Chat AIs already got censored. This showed very well the need for a completely independent AI running on your own hardware to have the control near fully on your side and not on the companies side.
+PersocomAI want to be a WebUI and AI that runs completelly offline on your local PC or network to be independed from any companies or other persons. Why is this important? At first, of course privacy. Your data is often used from companies to fine-tune their LLM model further. Also you need to put a lot of trust onto this companies to don't change the AI in a direction you don't like and also keep your most private data safe. At second, more and more companies and people want to limit AI models to be political correct and mirrors their moral conceptions and because the most AI companies so far are US companies they follow US moral concepts and as a result, they are imposing them on other countries as well. Some older popular Companion AIs already got censored. This showed very well the need for a completely independent AI running on your own hardware to have the control near fully on your side and not on the companies side.
 
 Another aspect of a fully local running AI is also that it is much more customizable for your own needs. What lead us to what PersocomAI itself want to be.
 
-PersocomAI want to be at first a Chatbot, inspired by existing AI bots like ReplikaAI and others. But is at second also inspired by fictional stuff like Chobits. "Persocom" is at first simply a short name for PERSOnal COMputer, but in Chobits also the name of humanoid robots which support humans in different ways. Replika also supports humans, but in a more limited way. PersocomAI want to go in a bit different direction and further.
+PersocomAI want to be at first a Companion ChatBot, inspired by existing AI bots like ReplikaAI and others. But is at second also inspired by fictional stuff like Chobits. "Persocom" is at first simply a short name for PERSOnal COMputer, but in Chobits also the name of humanoid robots which support humans in different ways. Replika also supports humans, but in a more limited way. PersocomAI want to go in a bit different direction and further.
 
-- PersocomAI will bring at first a Chatbot that is limited to one main character you can design yourself similar to other AIs.
-- This one character will be able to roleplay as complete other characters if you want to.
+- PersocomAI will bring at first a Companion that is limited to one main character you can design yourself similar to other AIs.
+- This one character will be able to roleplay as other characters if you want to.
 - You can create and manage roleplays and they will be stored seperatly inside the WebUI, which makes it easy for you to continue roleplays at any time.
 - The target is to interegrate all features fully inside the chatbot so that it feels very natural to use them.
 - Scripts will help to make the AI more useful but it will be ensured that these are never disruptive and helpful as far as possible and optional and customizable as well.
@@ -27,6 +27,8 @@ PersocomAI want to be at first a Chatbot, inspired by existing AI bots like Repl
 - Text to speech and speech to text support for hands and display free interaction.
 - Time and weather support.
 - Roleplay mode will be powerful with its own features.
+
+This is only a unsorted list of features which are planed and only some of them will be inside the first release. The first release is intended to ensure that future updates do not damage your AI Companion as long you use the same LLM. With the first release there will be also a suggestion which LLM or maybe LLMs you should use for best results. 
 
 First release: TBA
 
