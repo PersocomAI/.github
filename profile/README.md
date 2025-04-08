@@ -11,6 +11,7 @@ Discord: https://discord.gg/65h9Xb2A4T
 ### Why PersocomAI?
 
 **PersocomAI** wants to be a web UI and an AI that runs entirely offline[^1] on your local PC or network, independent of any companies or external parties.
+[^1]: This refers exclusively to the AI itself, the WebUI and the chat history (frontend and backend), which are stored and run completely offline. For example, if the weather plugin is used, an online connection is of course required to retrieve current weather data. Therefore, it is also important to only use third-party plugins from trusted sources.
 
 ## Why is this important?
 
@@ -49,6 +50,10 @@ The term **"Persocom"** is a shortened form of **PERSOnal COMpanion**. In *Chobi
 
 - **Personalized Companion**  
   A companion defined by a single main character that you can design yourself, similar to other AI companions.
+
+- **Avatar Support**  
+  It will be possible to use at least a 2D AI avatar.[^2]  
+[^2]: While VRM (VRoid Studio) support for 3D avatars would be ideal, because users can easily create their own, the goal is to also support more realistic characters, not just anime/comic-style ones. This project is not just for anime lovers.
 
 - **Roleplaying Capability**  
   This character will be capable of roleplaying as other characters if you wish.
@@ -97,7 +102,7 @@ The term **"Persocom"** is a shortened form of **PERSOnal COMpanion**. In *Chobi
 
 ## About the First Release
 
-This is an unsorted list of planned features. Only some will be included in the **first release**. That release is designed to ensure that future updates do not negatively impact your AI companion—as long as you continue using the same LLM.
+This is an unsorted list of planned features. Only some will be included in the **first release**. That release is designed to ensure that future updates do not negatively impact your AI companion, as long as you continue using the same LLM.
 
 **First release: Soon**
 
@@ -107,6 +112,4 @@ This is a completely private project with no company behind it and no intention 
 
 ### License
 
-The license has not yet been decided, as I do not want to allow forks until the project reaches a certain level of stability. This will take some time, as I want to maintain full control for the moment.
-
-[^1]: This refers exclusively to the AI itself, the WebUI and the chat history (frontend and backend), which are stored and run completely offline. For example, if the weather plugin is used, an online connection is of course required to retrieve current weather data. Therefore, it is also important to only use third-party plugins from trusted sources.
+The license has not yet been decided, as I prefer to retain full control for now and do not want to allow forks until the project reaches a certain level of stability. This will take some time. Of course, you are free to do whatever you like locally, but please refrain from redistributing it.
