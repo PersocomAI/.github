@@ -103,9 +103,11 @@ The term **"Persocom"** is a shortened form of **PERSOnal COMpanion**. In *Chobi
 
 This is an unsorted list of planned features. Only some will be included in the **first release**. That release is designed to ensure that future updates do not negatively impact your AI companion, as long as you continue using the same LLM.
 
-**First release:** Soon™
+**Website:** [PersocomAI.net](https://persocomai.net) *(forward actually to this side)*  
 
-**Discord:** [Official PersocomAI Support](https://discord.gg/65h9Xb2A4T)
+**Discord:** [Official PersocomAI Support](https://discord.gg/65h9Xb2A4T)  
+
+**First release:** Soon™
 
 ### Important
 
