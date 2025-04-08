@@ -23,9 +23,9 @@ An increasing number of companies and individuals seek to enforce politically co
 
 Some older, popular companion AIs have already been censored, highlighting the need for a completely independent AI running on your own hardware so **you maintain near-complete control**, rather than leaving it in the hands of corporations.
 
-## What makes local AI so valuable?
+## What makes a local AI companion so valuable?
 
-A fully local AI is highly customizable to suit your personal needs — this is exactly what inspired **PersocomAI**.
+A fully local AI is highly customizable to suit your personal needs — this is exactly what inspired **PersocomAI**. It also ensures that you no longer have to put your heart in the hands of companies, protecting your emotional connection from unwanted changes to the AI or even its eventual shutdown. **You** have the full control.
 
 ## What PersocomAI is *not* meant to be
 
