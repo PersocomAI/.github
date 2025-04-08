@@ -29,16 +29,17 @@ A fully local AI is highly customizable to suit your personal needs — this is 
 
 ## What PersocomAI is *not* meant to be
 
-PersocomAI is **not** an all-rounder chatbot.  
-It is **not** ChatGPT or something similar.  
-You won't be able to use it effectively for professional work tasks.  
-It is **not** a copy of other companion apps that allow users to create countless characters or switch between many existing ones.
+* PersocomAI is **not** an all-rounder chatbot that can do everything.  
+* It is **not** ChatGPT or something similar.  
+* You won't be able to use it effectively for professional work tasks.  
+* It is **not** a copy of other companion apps that allow users to create countless characters or switch between many existing ones.
 
 ## What PersocomAI *wants* to be
 
-Focus on **one** character, making it easier for you to form a deeper connection.  
-A **safe and secure** buddy, friend or whatever else you need it to be.  
-Someone who supports you with everyday topics, listens to you, comforts you, stays close to you, and helps ease feelings of loneliness.
+* Centered on a **single** carefully crafted character, enabling a more meaningful and personal relationship.  
+* A **safe and secure** buddy, friend or whatever else you need it to be.  
+* Someone who supports you with everyday topics, listens to you, comforts you, stays close to you, and helps ease feelings of loneliness.
+* Strictly distinguishes between regular chat conversations with simple roleplay and possible endless roleplays.  
 
 ## Concept and Inspiration
 
