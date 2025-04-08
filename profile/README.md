@@ -105,4 +105,8 @@ This is an unsorted list of planned features. Only some will be included in the 
 
 This is a completely private project with no company behind it and no intention of making any profit.
 
+### License
+
+The license has not yet been decided, as I do not want to allow forks until the project reaches a certain level of stability. This will take some time, as I want to maintain full control for the moment.
+
 [^1]: This refers exclusively to the AI itself, the WebUI and the chat history (frontend and backend), which are stored and run completely offline. For example, if the weather plugin is used, an online connection is of course required to retrieve current weather data. Therefore, it is also important to only use third-party plugins from trusted sources.
