@@ -10,7 +10,7 @@ Discord: https://discord.gg/65h9Xb2A4T
 
 ### Why PersocomAI?
 
-**PersocomAI** wants to be a web UI and an AI that runs entirely offline[^1] on your local PC or network, independent of any companies or external parties.
+**PersocomAI** wants to be a AI companion with a web UI and an AI that runs entirely offline[^1] on your local PC or network, independent of any companies or external parties.
 [^1]: This refers exclusively to the AI itself, the WebUI and the chat history (frontend and backend), which are stored and run completely offline. For example, if the weather plugin is used, an online connection is of course required to retrieve current weather data. Therefore, it is also important to only use third-party plugins from trusted sources.
 
 ## Why is this important?
