@@ -2,7 +2,7 @@
 Local running AI Companion ChatBot and Assistent Project
 
 ![Placeholder](https://raw.githubusercontent.com/PersocomAI/.github/main/profile/image.webp)
-(Placeholder - had no better image to hand)
+(Placeholder)
 
 Discord: https://discord.gg/65h9Xb2A4T
 
