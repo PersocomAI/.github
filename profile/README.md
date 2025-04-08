@@ -2,18 +2,16 @@
 Local running AI Companion ChatBot and Assistent Project
 
 ![Placeholder](https://raw.githubusercontent.com/PersocomAI/.github/main/profile/image.webp)
-(Placeholder)
+*(This is the WebUI and its work in progress design)*
 
-Discord: https://discord.gg/65h9Xb2A4T
+# About PersocomAI
 
-## About PersocomAI
-
-### Why PersocomAI?
+## Why PersocomAI?
 
 **PersocomAI** wants to be a AI companion with a web UI and an AI that runs entirely offline[^1] on your local PC or network, independent of any companies or external parties.
 [^1]: This refers exclusively to the AI itself, the WebUI and the chat history (frontend and backend), which are stored and run completely offline. For example, if the weather plugin is used, an online connection is of course required to retrieve current weather data. Therefore, it is also important to only use third-party plugins from trusted sources.
 
-## Why is this important?
+### Why is this important?
 
 **1. Privacy**  
 Your data is often used by companies to fine-tune their LLM models further, and you are required to place a lot of trust in these companies—not only to ensure your data remains secure but also to prevent them from modifying the AI in ways you might not appreciate.
@@ -105,7 +103,9 @@ The term **"Persocom"** is a shortened form of **PERSOnal COMpanion**. In *Chobi
 
 This is an unsorted list of planned features. Only some will be included in the **first release**. That release is designed to ensure that future updates do not negatively impact your AI companion, as long as you continue using the same LLM.
 
-**First release: Soon**
+**First release:** Soon™
+
+**Discord:** [Official PersocomAI Support](https://discord.gg/65h9Xb2A4T)
 
 ### Important
 
