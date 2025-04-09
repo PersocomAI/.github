@@ -37,7 +37,8 @@ A fully local AI is highly customizable to suit your personal needs — this is 
 * Centered on a **single** carefully crafted character, enabling a more meaningful and personal relationship.  
 * A **safe and secure** buddy, friend or whatever else you need it to be.  
 * Someone who supports you with everyday topics, listens to you, comforts you, stays close to you, and helps ease feelings of loneliness.
-* Strictly distinguishes between regular chat conversations with simple roleplay and possible endless roleplays.  
+* Strictly distinguishes between regular chat (which may include light roleplay elements) and full-fledged roleplay sessions in the dedicated roleplay mode[^2].  
+[^2]: "Roleplay" in this context refers specifically to in-character interactions and storytelling, without the use of gameplay mechanics such as dice rolls, character stats, or predefined systems. It is narrative-driven, not rule-driven. Support for rules-based roleplay (e.g., dice rolls, stats) may be added later as an optional module.
 
 ## Concept and Inspiration
 
@@ -47,24 +48,15 @@ The term **"Persocom"** is a shortened form of **PERSOnal COMpanion**. In *Chobi
 
 ## Key Features
 
+- **Integrated Experience**  
+  All features are fully integrated within the chatbot for a seamless user experience.
+
 - **Personalized Companion**  
   A companion defined by a single main character that you can design yourself, similar to other AI companions.
 
 - **Avatar Support**  
-  It will be possible to use at least a 2D AI avatar.[^2]  
-[^2]: While VRM (VRoid Studio) support for 3D avatars would be ideal, because users can easily create their own, the goal is to also support more realistic characters, not just anime/comic-style ones. This project is not just for anime lovers.
-
-- **Roleplaying Capability**  
-  This character will be capable of roleplaying as other characters if you wish.
-
-- **Roleplay Management**  
-  Create and manage roleplays, which are stored separately within the web UI, making it simple to continue your roleplays at any time.
-
-- **Integrated Experience**  
-  All features are fully integrated within the chatbot for a seamless user experience.
-
-- **Optional Scripts**  
-  Enhance the AI’s functionality with non-disruptive, optional, and customizable scripts.
+  It will be possible to use at least a 2D AI avatar.[^3]  
+[^3]: While VRM (VRoid Studio) support for 3D avatars would be ideal, because users can easily create their own, the goal is to also support more realistic characters, not just anime/comic-style ones. This project is not just for anime lovers.
 
 - **Improved Memory & Smarter Usage**  
   Planned solutions to boost memory and provide more intelligent interactions.
@@ -72,26 +64,35 @@ The term **"Persocom"** is a shortened form of **PERSOnal COMpanion**. In *Chobi
 - **Command and Trigger System**  
   Dedicated commands and trigger phrases to manage the AI and activate special features.
 
+- **Optional Scripts**  
+  Enhance the AI’s functionality with non-disruptive, optional, and customizable scripts.
+
 - **Adaptive AI Models**  
   Later planned automatic switching of AI models based on different use cases. For example: normal and roleplay mode.
 
-- **Optional Cloud API Integration**  
-  Use external APIs (with your consent) for non-sensitive tasks when you need more powerful models. For example for roleplay world building.
+- **Roleplaying Capability**  
+  This character will be capable of roleplaying[^2] as other characters if you wish.
 
-- **Hands-Free Interaction**  
-  Later planned support for text-to-speech and speech-to-text, enabling full hands-free and screen-free use.
-
-- **Daytime, Time, and Weather Support**  
-  Leverages online services like the Open Meteo API to provide real-time weather data, including current conditions and forecasts, along with time-related features.
-
-- **Plugin System**  
-  Python based custom plugins executed before and after AI text generation. Important: Use only custom plugins from trusted sources.
+- **Roleplay Management**  
+  Create and manage roleplays, which are stored separately within the web UI, making it simple to continue your roleplays at any time.
 
 - **Advanced Roleplay Mode**  
   Including features such as message editing and deletion.
 
 - **World Building for Roleplay**  
   Build an entire fictional world the AI can draw knowledge from for more immersive roleplay.
+
+- **Optional Cloud API Integration**  
+  Use external APIs (with your consent) for non-sensitive tasks when you need more powerful models. For example for roleplay world building.
+
+- **Plugin System**  
+  Python based custom plugins executed before and after AI text generation. Important: Use only custom plugins from trusted sources.
+
+- **Hands-Free Interaction**  
+  Later planned support for text-to-speech and speech-to-text, enabling full hands-free and screen-free use.
+
+- **Daytime, Time, and Weather Support**  
+  Leverages online services like the Open Meteo API to provide real-time weather data, including current conditions and forecasts, along with time-related features.
 
 - **Secure Online WebUI**  
   Optional support for establishing a highly secure connection via the Web UI while on the go. 
@@ -101,13 +102,15 @@ The term **"Persocom"** is a shortened form of **PERSOnal COMpanion**. In *Chobi
 
 ## About the First Release
 
-This is an unsorted list of planned features. Only some will be included in the **first release**. That release is designed to ensure that future updates do not negatively impact your AI companion, as long as you continue using the same LLM.
+Only some features will be included in the **first release**. The inclusion of the dedicated roleplay mode into the first release is still undecided. That release is designed to ensure that future updates do not negatively impact your AI companion, as long as you continue using the same LLM.
+
+**First release:** Soon™
 
 **Website:** [PersocomAI.net](https://persocomai.net) *(forward actually to this side)*  
 
 **Discord:** [Official PersocomAI Support](https://discord.gg/65h9Xb2A4T)  
 
-**First release:** Soon™
+I’m always open to hearing any suggestions or feedback you may have for improvement. Feel free to share them on GitHub or on the project’s Discord server.
 
 ### Important
 
