@@ -44,7 +44,7 @@ A fully local AI is highly customizable to suit your personal needs — this is 
 
 **PersocomAI** is intended primarily to be a *companion chatbot*, drawing inspiration from existing AI bots like **ReplikaAI** and from fictional concepts such as those found in **Chobits**.
 
-The term **"Persocom"** is a shortened form of **PERSOnal COMpanion**. In *Chobits*, it also refers to humanoid robots (*PERSOnal COMputers*) designed to support humans in various ways.
+The term **"Persocom"** is a shortened form of **PERSOnal COMpanion**. In *Chobits*, it also refers to humanoid robots (*PERSOnal COMputer*) designed to support humans in various ways.
 
 ## Key Features
 
