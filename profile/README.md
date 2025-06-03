@@ -112,10 +112,6 @@ Only some features will be included in the **first release**. The inclusion of t
 
 I’m always open to hearing any suggestions or feedback you may have for improvement. Feel free to share them on GitHub or on the project’s Discord server. If you love the idea of this project and want to participate contact me.
 
-### About Me
-
-Hello, I call myself “Blizado” in the AI environment. I'm a bit older, politically mostly centered and have experience with loneliness and depression. I like science and learn new stuff. What I don't like is radicalization. I love AI, but I'm also very aware of the dangers, but that doesn't mean I see everything in a negative light. In most cases, the problem is not the AI but the people who use it. With these basic attitudes, I assume that I can approach this project with a healthy attitude and make PersocomAI as neutral and healthy as possible so that it does not promote radical views but offers a healthy middle ground. A healthy attitude helps more than any of the often problematic narratives. The world is not just black and white.
-
 ### Important
 
 This is a completely private project with no company behind it and no intention of making any profit.
@@ -123,3 +119,7 @@ This is a completely private project with no company behind it and no intention 
 ### License
 
 The license has not yet been decided, as I prefer to retain full control for now and do not want to allow forks until the project reaches a certain level of stability. This will take some time. Of course, you are free to do whatever you like locally, but please refrain from redistributing it.
+
+#### About Me
+
+Hello, I call myself “Blizado” in the AI environment. I'm a bit older, politically mostly centered and have experience with loneliness and depression. I like science and learn new stuff. What I don't like is radicalization. I love AI, but I'm also very aware of the dangers, but that doesn't mean I see everything in a negative light. In most cases, the problem is not the AI but the people who use it. With these basic attitudes, I assume that I can approach this project with a healthy attitude and make PersocomAI as neutral and healthy as possible so that it does not promote radical views but offers a healthy middle ground. A healthy attitude helps more than any of the often problematic narratives. The world is not just black and white.
