@@ -1,5 +1,5 @@
 # PersocomAI
-Local running AI Companion ChatBot and Assistent Project
+Local running multi language AI Companion ChatBot and Assistent Project
 
 ![Placeholder](https://raw.githubusercontent.com/PersocomAI/.github/main/profile/image.webp)
 *(This is the WebUI and its work in progress design)*
@@ -102,7 +102,7 @@ The term **"Persocom"** is a shortened form of **PERSOnal COMpanion**. In *Chobi
 
 ## About the First Release
 
-Only some features will be included in the **first release**. The inclusion of the dedicated roleplay mode into the first release is still undecided. That release is designed to ensure that future updates do not negatively impact your AI companion, as long as you continue using the same LLM.
+Only some features will be included in the **first release**. The inclusion of the dedicated roleplay mode into the first release is still undecided. That release is designed to ensure that future updates do not negatively impact your AI companion, as long as you continue using the same LLM. For that it is also planed to use a special LLM, later finetuned for this project. Actually it is planed to use MistralAI's Nemo 12B as base model because of its solid multi language support (EN/FR/DE more later) and its uncensored state.
 
 **First release:** Soon™
 
@@ -110,7 +110,11 @@ Only some features will be included in the **first release**. The inclusion of t
 
 **Discord:** [Official PersocomAI Support](https://discord.gg/65h9Xb2A4T)  
 
-I’m always open to hearing any suggestions or feedback you may have for improvement. Feel free to share them on GitHub or on the project’s Discord server.
+I’m always open to hearing any suggestions or feedback you may have for improvement. Feel free to share them on GitHub or on the project’s Discord server. If you love the idea of this project and want to participate contact me.
+
+## About Me
+
+Hello, I call myself “Blizado” in the AI environment. I'm a bit older, politically mostly centered and have experience with loneliness and depression. I like science and learn new stuff. What I don't like is radicalization. I love AI, but I'm also very aware of the dangers, but that doesn't mean I see everything in a negative light. In most cases, the problem is not the AI but the people who use it. With these basic attitudes, I assume that I can approach this project with a healthy attitude and make PersocomAI as neutral and healthy as possible so that it does not promote radical views but offers a healthy middle ground. A healthy attitude helps more than any of the often problematic narratives. The world is not just black and white.
 
 ### Important
 
